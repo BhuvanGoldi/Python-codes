@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor
+# Python Codes
